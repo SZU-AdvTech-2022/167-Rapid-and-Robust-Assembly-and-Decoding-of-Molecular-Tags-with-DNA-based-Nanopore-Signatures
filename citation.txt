@@ -1,0 +1,6 @@
+@article{REPO-168,
+    author = "Doroschak, Kathryn",
+    journal = "Nature Communication, Karen Zhang, Melissa Queen, Aishwarya Mandyam, Karin Strauss, Luis Ceze \& Jeff Nivala",
+    title = "{Rapid and Robust Assembly and Decoding of Molecular Tags with DNA-based Nanopore Signatures}",
+    year = "2020"
+}
